@@ -1,1 +1,21 @@
-{"Afrikaans":"Afrikaans","Arabic":"العربية","Bangla":"বাংলা","Bosnian":"Bosanski (Latinski)","Bulgarian":"български","Cantonese (Traditional)":"粵語 (繁體)","Catalan":"Català","Chinese Simplified":"简体中文","Chinese Traditional":"繁體中文","Croatian":"Hrvatski","Czech":"Čeština","Danish":"Dansk","Dutch":"Nederlands","English":"English","Estonian":"Eesti keel","Fijian":"Viti","Filipino":"Pilipino","Finnish":"Suomi","French":"Français","German":"Deutsch","Greek":"Ελληνικά","Haitian Creole":"Kreyòl Ayisyen","Hebrew":"עברית","Hindi":"हिन्दी","Hmong Daw":"Hmoob","Hungarian":"Magyar","Icelandic":"Íslensku","Indonesian":"Bahasa Indonesia","Italian":"Italiano","Japanese":"日本語","Swahili":"Kiswahili","Korean":"한국어","Latvian":"Latviešu","Lithuanian":"Lietuvių","Malagasy":"Malagasy","Maltese":"Malti","Norwegian":"Norsk bokmål","Persian":"فارسی","Polish":"Polski","Portuguese":"Português (Portugal)","Querétaro Otomi":"Maxei hñäñho","Romanian":"Română","Russian":"Русский","Samoan":"Samoa","Serbian (Cyrillic)":"Сербиан (Цириллиц)","Serbian (Latin)":"Srpski (Latinica)","Slovak":"ස්ලෝවැකියානු","Slovenian":"Slovenščina","Spanish":"Español","Swedish":"Svenska","Tahitian":"Tahitian","Tamil":"தமிழ்","Telugu":"తెలుగు","Thai":"ไทย","Tongan":"Lea faka-Tonga","Turkish":"Türk","Ukrainian":"Ukrayna","Urdu":"اردو","Vietnamese":"Tiếng Việt","Welsh":"Cymraeg","Yucatec Maya":"Maaya yucateco"}
+{
+  "Arabic":"العربية",
+  "Chinese (Mandarin - China Mainland)": "简体",
+  "Chinese (Mandarin - Taiwan)": "简体",
+  "Dutch":"Nederlands",
+  "English (UK)":"British English",
+  "English (US)":"American English",
+  "French":"Français",
+  "German":"Deutsch",
+  "Indonesian":"Bahasa Indonesia",
+  "Italian":"Italiano",
+  "Japanese":"日本語",
+  "Korean":"한국어",
+  "Polish":"Polski",
+  "Portuguese (Brazil)":"Português",
+  "Russian":"Русский",
+  "Spanish (Spain)":"Español",
+  "Thai":"ไทย",
+  "Turkish":"Türk",
+  "Vietnamese":"Tiếng Việt"
+}
